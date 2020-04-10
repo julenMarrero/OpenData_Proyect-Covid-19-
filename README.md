@@ -1,12 +1,14 @@
 # OpenData_Proyect-Covid-19-
-This proyect consists in a chart about all the cases arround the world
+This proyect consists in a chart about the cases of COVID-19 per country worldwide
+
 there are some types of data:
   - Territory/Country
   - Cases per country
-  - Deaths
-  - Country code; example SIGAPORE has SGP code.
+  - Total of deaths per country
+  - Country code; example SINGAPORE has SGP code.
+  - Dates(sum of dd/mm/yyyy)
+  - Cases/deaths percentage
   
-There are plenty of data in this xml so i think i will fill in the chart with some of them instead of the whole data. we will see it 
 
 This is the link of the OpenData XML that we are going to use for our app:
 
