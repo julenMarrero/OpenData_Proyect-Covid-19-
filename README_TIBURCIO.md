@@ -2,10 +2,10 @@ Buenas Tiburcio,
 
 
 Tengo problemas con identificar un solo elemento en este xml que he cogido, lo que quiero es hacer una tabla con lo siguiente:
--Coger un pais 
--y su codigo
--coger los casos y sumarlos para devolverlos en un total,
--las muertes igual
+  -Coger un pais 
+  -y su codigo
+  -coger los casos y sumarlos para devolverlos en un total,
+  -las muertes igual
 
 El caso es que al ser por día los registros del XML(récord en el XML que te adjunto)  no se como coger 
 cada país sin que se repita, sumar los casos de cada país sin sumar todos los países..
