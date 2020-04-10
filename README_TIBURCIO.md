@@ -19,7 +19,8 @@ me quedo en
 <xsl:for-each select="/records/record/">
   <tr>
      <td>
-       <xsl:value-of select="countriesAndTerritories"/> <!--me devolverá la suma de todos los textos countriesAndTerritories-->
+       <xsl:value-of select="countriesAndTerritories"/>
+       <!--me devolverá la suma de todos los textos countriesAndTerritories-->
      </td>                          
      <td>
        <xsl:value-of select="cases"/> 
@@ -31,7 +32,8 @@ me quedo en
   </tr>
 </xsl:for-each>
 
-No se si se pueden coger esos registros y directamente buscar otro XML mas valido
+No sé si se pueden coger esos registros y directamente buscar otro XML mas válido
+Lo único que se me ocurren es un condicional (where x fecha coger todos los valores por código de pais(<popData2018>)
 
 Saludos, Gracias.
 
