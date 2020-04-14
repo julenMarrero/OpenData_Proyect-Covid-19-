@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><records xmlns:exsl="http://exslt.org/common">
+<Jornada>
+<ganadores_locales>
+<player>Pope</player>
+<goles>4</goles>
+</ganadores_locales>
+<perdedores_locales>
+<player>Jorge</player>
+<goles>1</goles>
+</perdedores_locales>
+<empate>
+<player>
+                    Saul
+                    Aday
+                </player>
+<goles>2</goles>
+</empate>
+<ganadores_away>
+<player>Ivan</player>
+<goles>7</goles>
+</ganadores_away>
+<perdedores_away>
+<player>Adrian</player>
+<goles>1</goles>
+</perdedores_away>
+</Jornada>
+</records>
