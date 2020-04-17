@@ -6,8 +6,7 @@ there are some types of data:
   - Cases per country
   - Total of deaths per country
   - Country code; example SINGAPORE has SGP code.
-  - Dates(sum of dd/mm/yyyy)
-  - Cases/deaths percentage
+
   
 
 This is the link of the OpenData XML that we are going to use for our app:
